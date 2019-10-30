@@ -8,3 +8,5 @@ Once I finish school I expect to work at a small to medium sized arts organizati
 
 # Portfolio
 As I begin creating projects for class, they will be posted here!
+
+# [Data Viz Re-Design 1: OECD] (/dataviz2.md)
