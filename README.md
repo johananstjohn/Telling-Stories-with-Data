@@ -11,4 +11,4 @@ As I begin creating projects for class, they will be posted here!
 
 # [Data Viz Re-Design 1: OECD](/dataviz2.md)
 
-# [Data Viz Re-Design 2: NISMART](/Data Viz Re-Design 2: NISMART.md)
+# [Data Viz Re-Design 2: NISMART](/DataVizRe-Design2:NISMART.md)
