@@ -15,7 +15,7 @@ Through this process I began to realize how much potential there was to turn thi
 Next, I created the wireframe which required me to think creatively in the different ways this information could be represented. I first
 went through an iteration of a layered bar graph which looked nice, but didn't allow for an accurate presentation of the percentages. Each set of percentages were a part of a separate 100%, rather than both being a part of the same whole. For this reason, I opted to create a second wireframe using a scatter plot, which allows for two separate sets of percentages on each axis and is able to show the size of each category by simply changing the size of the points. 
 
-![Wireframe 1](Wireframe 1.JPG)
+![Wireframe 1](Wireframe_1.JPG)
 
 ![Wireframe 2](Wireframe 2.JPG)
 
