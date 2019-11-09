@@ -21,6 +21,10 @@ set of percentages were a part of a separate 100%, rather than both being a part
 second wireframe using a scatter plot, which allows for two separate sets of percentages on each axis and is able to show the size of each
 category by simply changing the size of the points. 
 
+![Wireframe 1](Wireframe 1.jpg)
+
+![Wireframe 2](Wireframe 2.jpg)
+
 Collecting user feedback at this stage turned out to be incredibly valuable as it 
 allowed me to gain an understanding of how the information in the visual came across (or didn't come across) to others, who weren't steeped 
 in the information. Through these conversations it came to my attention that some of the labels used in the original table (ie. "Counted as 
@@ -31,3 +35,5 @@ This final version of my visualization presents this data on Missing Children, t
 caretaker in relation to the percent of cases that are reported to an official. The further along the y-axis, the more of the cases involved
 the caretaker being aware that the child was missing, and the further along the x-axis, the more of the cases were reported. The size of each
 circle represents the number of cases documented.
+
+![Final Redesign](Redesign.jpg)
