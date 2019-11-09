@@ -37,3 +37,6 @@ the caretaker being aware that the child was missing, and the further along the 
 circle represents the number of cases documented.
 
 ![Final Redesign](Redesign.jpg)
+
+
+[Go Back to Home Page](/README.md)
