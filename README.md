@@ -7,8 +7,7 @@ My name is Johanna St. John and I use she/her pronouns. I'm a second year Master
 Once I finish school I expect to work at a small to medium sized arts organization or social justice organization that incorporates the arts. Often times small organizations in these fields are understaffed and overworked. In that stressful environment they often don't feel that they have time to bring data into the work that they do. I would love to learn during this course some of the important and relevant ways that data is used in businesses and how to present it in an impactful way in order to successfully bring the use of data into future jobs and show its importance. 
 
 # Portfolio
-As I begin creating projects for class, they will be posted here!
 
-# [Data Viz Re-Design 1: OECD](/dataviz2.md)
+## [Data Viz Re-Design 1: OECD](/dataviz2.md)
 
-# [Data Viz Re-Design 2: NISMART](/DataVizRe-Design2:NISMART.md)
+## [Data Viz Re-Design 2: NISMART](/DataVizRe-Design2:NISMART.md)
