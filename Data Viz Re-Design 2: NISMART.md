@@ -2,7 +2,7 @@
 
 ## NISMART Missing Children Statistics
 
-![NISMART Statistics](Missing Children Statistics.jpg)
+![NISMART Statistics](MissingChildrenStatistics.jpg)
 
 I selected this data to redesign because I think it is a great example of a table that makes sense in the context it was presented in, 
 in that it provides specific values and percentages. However, it also leaves much room for experimentation when it comes to presenting 
@@ -15,9 +15,9 @@ Through this process I began to realize how much potential there was to turn thi
 Next, I created the wireframe which required me to think creatively in the different ways this information could be represented. I first
 went through an iteration of a layered bar graph which looked nice, but didn't allow for an accurate presentation of the percentages. Each set of percentages were a part of a separate 100%, rather than both being a part of the same whole. For this reason, I opted to create a second wireframe using a scatter plot, which allows for two separate sets of percentages on each axis and is able to show the size of each category by simply changing the size of the points. 
 
-![Wireframe 1](Wireframe 1.jpg)
+![Wireframe 1](Wireframe1.jpg)
 
-![Wireframe 2](Wireframe 2.jpg)
+![Wireframe 2](Wireframe2.jpg)
 
 Collecting user feedback at this stage turned out to be incredibly valuable as it allowed me to gain an understanding of how the information in the visual came across (or didn't come across) to others, who weren't steeped in the information. Through these conversations it came to my attention that some of the labels used in the original table (ie. "Counted as Caretaker Missing") was confusing to the readers. For this reason, I changed the title of my y-axis to "Percent Missing to Caretaker" to more accurately describe what was included in that category.
 
