@@ -24,7 +24,7 @@ Collecting user feedback at this stage turned out to be incredibly valuable as i
 ## The Final Product
 This final version of my visualization presents this data on Missing Children, their categorization, and the percent that is missing to the caretaker in relation to the percent of cases that are reported to an official. The further along the y-axis, the more of the cases involved the caretaker being aware that the child was missing, and the further along the x-axis, the more of the cases were reported. The size of each circle represents the number of cases documented.
 
-![Final Redesign](redesign.JPG)
+![Final Redesign](redesign2.JPG)
 
 
 [Go Back to Home Page](/README.md)
