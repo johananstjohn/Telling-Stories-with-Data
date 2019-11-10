@@ -2,7 +2,7 @@
 
 ## NISMART Missing Children Statistics
 
-![NISMART Statistics](MissingChildrenStatistics.JPG)
+![NISMART Statistics](MissingChildOriginal.JPG)
 
 I selected this data to redesign because I think it is a great example of a table that makes sense in the context it was presented in, 
 in that it provides specific values and percentages. However, it also leaves much room for experimentation when it comes to presenting 
