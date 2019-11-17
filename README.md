@@ -11,3 +11,5 @@ Once I finish school I expect to work at a small to medium sized arts organizati
 ## [Data Viz Re-Design 1: OECD](/dataviz2.md)
 
 ## [Data Viz Re-Design 2: NISMART](/DataVizRe-Design2:NISMART.md)
+
+## [Final Project](/final_project_JohannaStJohn.md)
