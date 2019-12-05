@@ -32,7 +32,7 @@ No. Very visual heavy, but not many at the end.
   
 3. Did anything feel under-emphasized?
 
-No
+   No
 
 4. From the four short study descriptions used at the end, did any of them especially resonate with you?
 The last one - 4000 households. It’s something that applies to everyone regardless of political/environmental beliefs.
