@@ -152,8 +152,7 @@ Underestimated and Underemployed Lever for Managing Climate Change.” Internati
  
 Wynes, Seth and Kimberly A. Nicholas. “The Climate Mitigation Gap: Education and Government Recommendations Miss the Most Effective Individual Actions.” IOPscience. July 12, 2017. https://iopscience.iop.org/article/10.1088/1748-9326/aa7541.
 
-Conway, Abby E. “Here’s What You Can Do About Climate Change.” WBUR News. August 29, 
-2017. https://www.wbur.org/news/2017/08/29/massachusetts-what-can-you-do-about-climate-change.
+Conway, Abby E. “Here’s What You Can Do About Climate Change.” WBUR News. August 29, 2017. https://www.wbur.org/news/2017/08/29/massachusetts-what-can-you-do-about-climate-change.
 
 US EPA, Office of Air and Radiation. “Carbon Footprint Calculator.” US EPA. July 14, 2016. 
 https://www3.epa.gov/carbon-footprint-calculator.
