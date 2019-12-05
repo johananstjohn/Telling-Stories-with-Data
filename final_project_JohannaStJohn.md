@@ -23,6 +23,7 @@ While beginning my research and developing a more complete wireframe, I realised
 5. Do you have any thoughts of visuals that would help you understand or picture the studies?
 6. Any other feedback?
 
+.
 
 ### User 1
 #### 1. How do you feel at the end?
@@ -45,6 +46,7 @@ Take out solar panel study because the results could theoretically be due to oth
 #### 6. Any other feedback?
 In the electricity study by the journal, distinguish that they tracked electricity. It seemed like energy could be referring to personal energy, since I was just talking about emotions.
 
+.
 
 ### User 2
 
@@ -66,6 +68,7 @@ Infographic
 #### 6. Any other feedback?
 No
 
+.
 
 ### User 3
 
