@@ -115,45 +115,63 @@ Please find the final rendition of It Stars With You: Climate Change is in Your 
 
 # Bibliography
 
-https://www.ncdc.noaa.gov/billions/events
+“Billion-Dollar Weather and Climate Disasters: Table of Events” National Centers for 
+Environmental Information (NCEI). 2019. https://www.ncdc.noaa.gov/billions/events.
 
-https://climatecommunication.yale.edu/visualizations-data/ycom-us/
+Marlon, Jennifer; P. Howe; M. Mildenberger; A. Leiserowitz; and X. Wang. “Yale Climate Opinion 
+Maps 2019.” Yale Program on Climate Change Communication. September 17, 2019. https://climatecommunication.yale.edu/visualizations-data/ycom-us/.
 
+GlobeScan and IKEA. “Climate action starts at home.” IKEA. September 25, 2018. 
 https://globescan.com/wp-content/uploads/2018/09/IKEA-GlobeScan_Climate_Action_Webinar_Sept2018.pdf
 
+GlobeScan and IKEA. “Climate action starts at home.” IKEA. September 2018. 
 https://globescan.com/wp-content/uploads/2018/09/IKEA-GlobeScan_Climate_Action_Report_Sept2018.pdf
 
-https://climatecommunication.yale.edu/wp-content/uploads/2016/06/Climate-Change-American-Mind-March-2016-FINAL.pdf
+Leiserowitz, Anthony; E. Maibach; C. Roser-Renouf; G. Feinberg; and S. Rosenthal. “Climate 
+Change in the American Mind.” Yale Program on Climate Change Communication. March 2016. https://climatecommunication.yale.edu/wp-content/uploads/2016/06/Climate-Change-American-Mind-March-2016-FINAL.pdf
 
-https://www.sciencedaily.com/releases/2017/05/170504121947.htm
+University of Warwick. “Believe You Can Stop Climate Change and You Will.” ScienceDaily. 
+Accessed May 4, 2017. https://www.sciencedaily.com/releases/2017/05/170504121947.htm.
 
-https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxap0000105
+Salomon, Erika, Jesse L. Preston, and Melanie B. Tannenbaum. “Climate change helplessness 
+and the (de)moralization of individual energy behavior.” Journal of Experimental Psychology: Applied. 23(1) (2017): 15-28. https://doi.org/10.1037/xap0000105
 
-https://www.bbc.com/future/article/20181102-what-can-i-do-about-climate-change
+Ortiz, Diego A. “Ten Simple Ways to Act on Climate Change.” BBC Future. November 4, 2018. 
+https://www.bbc.com/future/article/20181102-what-can-i-do-about-climate-change.
 
-https://journals.sagepub.com/doi/abs/10.1177/0956797617719950
+Sparkman, Gregg, and Gregory M. Walton. “Dynamic Norms Promote Sustainable Behavior, 
+Even If It Is Counternormative.” Psychological Science 28, no. 11 (November 1, 2017): 1663–74. https://doi.org/10.1177/0956797617719950.
 
-https://drive.google.com/file/d/1GHMzLpkPVJ-a2fifjswLxxqAqTEllVNs/view
+Westlake, Steve. “A counter-narrative to carbon supremacy: Do leaders who give up flying 
+because of climate change influence the attitudes and behaviour of others?” October 2, 2017. https://drive.google.com/file/d/1GHMzLpkPVJ-a2fifjswLxxqAqTEllVNs/view
+ 
+Suttie, Jill. “How to Overcome ‘Apocalypse Fatigue’ Around Climate Change.” Greater Good Magazine. February 23, 2018. https://greatergood.berkeley.edu/article/item/how_to_overcome_apocalypse_fatigue_around_climate_change.
 
-https://greatergood.berkeley.edu/article/item/how_to_overcome_apocalypse_fatigue_around_climate_change 
+Griskevicius, Vladas; Robert B. Cialdini, and Noah J. Goldstein. “Social Norms: An 
+Underestimated and Underemployed Lever for Managing Climate Change.” International Journal of Science and Consciousness. 3 (2008): 5-13 https://pdfs.semanticscholar.org/8791/b3ce170ee1328adb2df83d75c36fdad326e9.pdf)           
+ 
+Wynes, Seth and Kimberly A. Nicholas. “The Climate Mitigation Gap: Education and Government Recommendations Miss the Most Effective Individual Actions.” IOPscience. July 12, 2017. https://iopscience.iop.org/article/10.1088/1748-9326/aa7541.
 
-https://pdfs.semanticscholar.org/8791/b3ce170ee1328adb2df83d75c36fdad326e9.pdf)
+Conway, Abby E. “Here’s What You Can Do About Climate Change.” WBUR News. August 29, 
+2017. https://www.wbur.org/news/2017/08/29/massachusetts-what-can-you-do-about-climate-change.
 
-https://iopscience.iop.org/article/10.1088/1748-9326/aa7541
+US EPA, Office of Air and Radiation. “Carbon Footprint Calculator.” US EPA. July 14, 2016. 
+https://www3.epa.gov/carbon-footprint-calculator.
 
-https://www.wbur.org/news/2017/08/29/massachusetts-what-can-you-do-about-climate-change
+“Shifting High Consumers’ Diets Can Greatly Reduce Per Person Land Use and GHG 
+Emissions.” World Resource Institute. Accessed December 5, 2019. https://wriorg.s3.amazonaws.com/s3fs-public/uploads/16_Shifting-Diets-Blog-Graphics_07v4.png?_ga=2.140325495.519537369.1540904431-1722369491.1540904431.
 
-https://www3.epa.gov/carbon-footprint-calculator/
+Webber, Jemima. “Eating Vegan Is the Most Effective Way to Combat Climate Change, Says 
+Largest-Ever Food Production Analysis.” LIVEKINDLY. Last Updated May 19, 2019. https://www.livekindly.co/eating-vegan-is-the-most-effective-way-to-combat-climate-change-says-largest-ever-food-production-analysis/.
 
-https://wriorg.s3.amazonaws.com/s3fs-public/uploads/16_Shifting-Diets-Blog-Graphics_07v4.png?_ga=2.140325495.519537369.1540904431-1722369491.1540904431
+Inactive.. Worms Eyeview of Green Trees. December 2, 2019. 
+https://www.pexels.com/photo/worms-eyeview-of-green-trees-957024/
 
-https://www.livekindly.co/eating-vegan-is-the-most-effective-way-to-combat-climate-change-says-largest-ever-food-production-analysis/
-
-Inactive.. Worms Eyeview of Green Trees. December 2, 2019. https://www.pexels.com/photo/worms-eyeview-of-green-trees-957024/
-
-Jeremy Bishop. Photo of underwater. December 2, 2019. https://unsplash.com/photos/1braZySlEKA
+Jeremy Bishop. Photo of underwater. December 2, 2019. 
+https://unsplash.com/photos/1braZySlEKA
 
 redcharlie. Green leafed trees. December 2, 2019. https://unsplash.com/photos/k2zWqv_yfNM
+
 
 
 [Go Back to Home Page](/README.md)
