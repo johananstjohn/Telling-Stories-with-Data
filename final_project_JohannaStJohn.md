@@ -105,7 +105,7 @@ I certainly learned the importance of user research and came to value how much c
 
 # The Final Story
 
-Please find the final rendition of It Stars With You: Climate Change is in Your Hands [here](https://johannastjohn29.wixsite.com/storieswithdata/final-project-v2)
+Please find the final rendition of It Stars With You: Climate Change is in Your Hands [here](https://johannastjohn29.wixsite.com/storieswithdata/final-project-v2).
 
 
 # Bibliography
