@@ -25,63 +25,63 @@ While beginning my research and developing a more complete wireframe, I realised
 
 ### User 1
 #### 1. How do you feel at the end?
-More enlightened and slightly more hopeful because we have good systems to capitalize on social norms. See social media and   marketing
+More enlightened and slightly more hopeful because we have good systems to capitalize on social norms. See social media and marketing
 
-2. Did any points of it feel redundant or over-emphasized?
+#### 2. Did any points of it feel redundant or over-emphasized?
 No. Very visual heavy, but not many at the end.
   
-3. Did anything feel under-emphasized?
+#### 3. Did anything feel under-emphasized?
    No
 
-4. From the four short study descriptions used at the end, did any of them especially resonate with you?
+#### 4. From the four short study descriptions used at the end, did any of them especially resonate with you?
 The last one - 4000 households. It’s something that applies to everyone regardless of political/environmental beliefs.
 
-5. Do you have any thoughts of visuals that would help you understand or picture the studies?
+#### 5. Do you have any thoughts of visuals that would help you understand or picture the studies?
 Make a graphic of the 4 reasons why people were told. The last highlighted in green and the others in red.
 Happy and neutral face for Psychology Journal. 
 Take out solar panel study because the results could theoretically be due to other factors, like wealth of the residents or zoning or city policies.
 
-6. Any other feedback?
+#### 6. Any other feedback?
 In the electricity study by the journal, distinguish that they tracked electricity. It seemed like energy could be referring to personal energy, since I was just talking about emotions.
 
 ### User 2
 
-1. How do you feel at the end?
+#### 1. How do you feel at the end?
 Empowered
 
-2. Did any points of it feel redundant or over-emphasized?
+#### 2. Did any points of it feel redundant or over-emphasized?
 No
 
-3. Did anything feel under-emphasized?
+#### 3. Did anything feel under-emphasized?
 No
 
-4. From the four short study descriptions used at the end, did any of them especially resonate with you?
+#### 4. From the four short study descriptions used at the end, did any of them especially resonate with you?
 The last four
 
-5. Do you have any thoughts of visuals that would help you understand or picture the studies?
+#### 5. Do you have any thoughts of visuals that would help you understand or picture the studies?
 Infographic
 
-6. Any other feedback?
+#### 6. Any other feedback?
 No
 
 ### User 3
 
-1. How do you feel at the end?
+#### 1. How do you feel at the end?
 I feel frustrated because it seems that collective efforts will help the environment, but how much influence do us average joes have?
 
-2. Did any points of it feel redundant or over-emphasized?
+#### 2. Did any points of it feel redundant or over-emphasized?
 At the information starting around “…Diego” and onward, I think the information can be truncated
 
-3. Did anything feel under-emphasized?
+#### 3. Did anything feel under-emphasized?
 Maybe information on where the first data visualizations come from to help you credibility
 
-4. From the four short study descriptions used at the end, did any of them especially resonate with you?
+#### 4. From the four short study descriptions used at the end, did any of them especially resonate with you?
 An online survey showed that of the respondents who know someone who had given up flying because of climate change, half of them said they flew less as a result.
 
-5. Do you have any thoughts of visuals that would help you understand or picture the studies?
+#### 5. Do you have any thoughts of visuals that would help you understand or picture the studies?
 Be careful that the title “But as of 2016, only 6% actually think humans can and will reduce Climate Change.” gets cut off with the visual. If you provided links be careful that the reader can see the links (perhaps use an accent color). Could you put a color association with the graph “But as of 2016, only 6% actually think humans can and will reduce Climate Change.”? It’s not all positive so the blue/green doesn’t visually accent that.
 
-6. Any other feedback?
+#### 6. Any other feedback?
 No
 
 
